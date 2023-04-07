@@ -1,21 +1,10 @@
 # <Starter Website>
 
+UCF Bootcamp Prework Materials	
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+Short Description of Frontend and Backend capabilities of a starter webpage.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
 
 ## Installation
 
@@ -23,10 +12,7 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-This webpage is a simple starter webpage. Simple text content, page design from CSS allowing this page to not be plain, and a console function for Javascript as mentioned in the index,. Please look around. 
-
+In the short run use this is for simple new notes to keep track of as well as practice uploading to git. Most likely I'll fills notes about uploading abut Git and functions. I was not taught well to upload to Git and I will add more to here. Possibly transform this page for those confused with Git. 
 
 ## Credits
 
@@ -57,3 +43,4 @@ If you created an application or package and would like other developers to cont
 ## Tests
 
 Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+0 comments on commit 7359033
